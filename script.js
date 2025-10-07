@@ -8,5 +8,5 @@ listArray.forEach(item => {
     listContainer.appendChild(listItem);
 });
 
-
+console.log(listArray);
 
